@@ -1,4 +1,6 @@
-#EXTM3U
+
+#EXTINF:-1 logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwpzleFjw2eMKerrhyg7_lhDqJJGNNljFO9A&usqp=CAU ,Chaves 24/7
+http://diretogo.com:80/r132873x/3271211/5431
 
 #EXTINF:-1 tvg-logo="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png" group-title="Hobby", Agro Brasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
